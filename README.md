@@ -10,3 +10,7 @@ Set of recipes as given by my grandma.
 ## Subheader 
 
 Bake time - minutes
+
+## Local development
+
+1. Open schnabg
